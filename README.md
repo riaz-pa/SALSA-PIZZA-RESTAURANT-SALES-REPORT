@@ -4,6 +4,8 @@ This repository contains a comprehensive sales report for the Salsa Pizza Restau
 ![Alt text](https://github.com/riaz-pa/Datasets/blob/main/Screen%20Shot%202023-10-23%20at%2012.08.59%20AM.png)
 ![Alt text](https://github.com/riaz-pa/Datasets/blob/main/Screen%20Shot%202023-10-23%20at%2012.09.23%20AM.png)
 
+https://public.tableau.com/app/profile/riaz.pa/viz/SalsaPizzaRestaaurantSalesReport2022/BestWorstSellers#1
+
 # Project: Salsa Pizza Restaurant Sales Report
 
 ## Key Components:
